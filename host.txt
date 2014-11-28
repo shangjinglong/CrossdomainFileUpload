@@ -1,0 +1,2 @@
+127.0.0.8	www.upload1.cc
+127.0.0.9	www.upload2.cc
