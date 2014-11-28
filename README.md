@@ -1,5 +1,4 @@
 PHP文件跨域上传,跨服务器上传
-PHP文件跨域上传,跨服务器上传
 
 PHP本地模拟跨域上传文件
 
@@ -18,3 +17,5 @@ https://github.com/shangjinglong/CrossdomainFileUpload
 4.重启Apache
 
 5.运行www.upload1.cc文件上传到www.upload2.cc下
+
+#http://www.mrtable.cn/98.html
